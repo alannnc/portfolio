@@ -7,6 +7,7 @@ Welcome to my portfolio, a showcase of my work and skills. This project is built
 - **Frontend**: [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)
 - **Version Control**: [Git](https://git-scm.com/)
 - **Deployment**: [Vercel](https://vercel.com/)
+- **UI LIB** [FlowBite](https://flowbite.com/), [Radix](https://radix.ui)
 
 ## Getting Started
 
