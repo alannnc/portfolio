@@ -19,7 +19,10 @@ const Intro = () => {
           {/* Buttons to my links */}
           <Button title="Portfolio" url="/portfolio" />
           <Button img={<Github />} url="https://github.com/alannnc" />
-          <Button img={<Linkedin />} url="https://linkedin.com/in/alannnc" />
+          <Button
+            img={<Linkedin />}
+            url="https://www.linkedin.com/in/alan-castro-a0945a89/"
+          />
           <Button title="X" url="https://x.com/alannnc_" />
         </div>
       </div>
