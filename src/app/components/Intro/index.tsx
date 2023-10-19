@@ -7,12 +7,10 @@ const Intro = () => {
     <>
       {/* Left side */}
       <div className="mx-12">
-        <h1 className="font-sans text-4xl font-bold">
-          Hey, I&quote;m Alan! 🇲🇽
-        </h1>
+        <h1 className="font-sans text-4xl font-bold">Hey, I&apos;m Alan! 🇲🇽</h1>
         <h2 className="font-sans text-xl w-[500px] mt-4">
           A decade of experience in software development, mostly in startups.
-          I&quote;m fan of the challenges that they came up. I enjoy playing any
+          I&apos;m fan of the challenges that they came up. I enjoy playing any
           kind of games, I believe they can give you the ability to think
           creatively and critically. <br />
           Testing advocate.

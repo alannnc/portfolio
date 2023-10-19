@@ -35,7 +35,7 @@ const CuidaMiMascota = () => {
 
           <h2 className="text-lg font-bold uppercase mt-4">As a developer: </h2>
           <p className="text-justify font-sans mt-4 text-lg">
-            I&quote;ve been working remotely the entire time for CMM alongside
+            I&apos;ve been working remotely the entire time for CMM alongside
             CEO, CTO, and founders. My main work here was develop and maintain
             APP website, we transitioned from PHP to NextJS, develop a NodeJS
             API restful to enable services for both WEB and mobile apps,
