@@ -35,14 +35,14 @@ const CuidaMiMascota = () => {
 
           <h2 className="text-lg font-bold uppercase mt-4">As a developer: </h2>
           <p className="text-justify font-sans mt-4 text-lg">
-            I've been working remotely the entire time for CMM alongside CEO,
-            CTO, and founders. My main work here was develop and maintain APP
-            website, we transitioned from PHP to NextJS, develop a NodeJS API
-            restful to enable services for both WEB and mobile apps, implemented
-            several third party payment services(Stripe, Paypal, Conekta), email
-            services, sockets for Chat services, sms services, push
-            notifications for user engagement, developed several test with Jest
-            for our API service endpoints and code base. React native
+            I&quote;ve been working remotely the entire time for CMM alongside
+            CEO, CTO, and founders. My main work here was develop and maintain
+            APP website, we transitioned from PHP to NextJS, develop a NodeJS
+            API restful to enable services for both WEB and mobile apps,
+            implemented several third party payment services(Stripe, Paypal,
+            Conekta), email services, sockets for Chat services, sms services,
+            push notifications for user engagement, developed several test with
+            Jest for our API service endpoints and code base. React native
             development and maintenance on our APP for all the stores (Apple,
             Huawei, Google). AWS tools development like SQS, Lamda, S3 storage
             and Clusters.

@@ -42,10 +42,10 @@ const Credilikeme = () => {
             client from personal data to bank credit card details, to be
             processed for a specific credit rate and credit amount. Also was in
             charge of developing a internal tool for getting a big picture of
-            every new application in the system called "Checklist" where every
-            user was able to track easily each application form and help the
-            client finish they application. And lastly was the developer of the
-            new version of the new website made with AngularJs.
+            every new application in the system called &quote;Checklist&quote;
+            where every user was able to track easily each application form and
+            help the client finish they application. And lastly was the
+            developer of the new version of the new website made with AngularJs.
           </p>
           <p className="uppercase text-sans font-bold text-lg mt-6">
             technology stack i used

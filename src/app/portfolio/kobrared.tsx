@@ -18,7 +18,7 @@ const KobraRed = () => {
         }
       >
         <div className="text-center m-auto w-[640px] pt-20">
-          <h1 className="text-5xl font-bold">CuidaMiMascota</h1>
+          <h1 className="text-5xl font-bold">Kobra</h1>
           <hr className="h-1 my-8 bg-gray-200 border-0 dark:bg-gray-700 w-[300px] m-auto" />
 
           <Image
